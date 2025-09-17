@@ -1,16 +1,17 @@
-## Hi there 👋
+### 🍥 O Genin do Código  
+🥷 Iniciante no mundo da programação, mas com vontade de Hokage  
+📜 Treinando meus jutsus: **HTML**, **JavaScript**, **Banco de Dados** e **CDD**  
+⚡ Cada bug é como um clone das sombras – sempre aparece mais de um!  
+🔥 Persistência é minha Ninjutsu Secreta  
 
-<!--
-**viniciusferreira24/viniciusferreira24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌐 Minhas redes  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.instagram.com/euvinisu/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/instagram/instagram-original.svg" width="40" height="40"/>
+</a>
+<br>
+<a href="https://www.linkedin.com/in/vinicius-ferreira-05881a176/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" width="40" height="40"/>
+</a>
