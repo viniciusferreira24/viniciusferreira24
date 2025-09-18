@@ -9,9 +9,17 @@
 ### 🌐 Minhas redes  
 
 <a href="https://www.instagram.com/euvinisu/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/instagram/instagram-original.svg" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" height="40"/>
 </a>
 <br>
 <a href="https://www.linkedin.com/in/vinicius-ferreira-05881a176/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40"/>
 </a>
+
+---
+
+### 📊 Minhas estatísticas  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viniciusferreira24&show_icons=true&title_color=FF6C00&icon_color=FF6C00&text_color=00AEEF&bg_color=000000)  
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusferreira24&layout=compact&title_color=FF6C00&text_color=00AEEF&bg_color=000000)  
