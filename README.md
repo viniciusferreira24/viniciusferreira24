@@ -26,6 +26,7 @@ Tenho foco em prática constante, construção de projetos reais e evolução co
 
 ## 📊 Estatísticas  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viniciusferreira24&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusferreira24&layout=compact&theme=default)
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=viniciusferreira24&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusferreira24&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
